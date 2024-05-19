@@ -1,0 +1,6 @@
+2
+400.0
+Fish
+Frozen
+Product_Images\\prod2.png
+50

@@ -1,0 +1,6 @@
+15
+80.0
+RedBull
+Drinks
+Product_Images/redbull.png
+100

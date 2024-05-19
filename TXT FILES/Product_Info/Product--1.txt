@@ -1,0 +1,6 @@
+1
+700.0
+Mutton
+Frozen
+Product_Images\\prod1.png
+97

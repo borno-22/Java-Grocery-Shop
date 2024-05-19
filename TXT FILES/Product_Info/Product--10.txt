@@ -1,0 +1,6 @@
+10
+45.0
+CocaCola
+Drinks
+Product_Images/Picture1.png
+98

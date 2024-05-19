@@ -1,0 +1,6 @@
+4
+100.0
+Milk
+Frozen
+Product_Images/prod4.png
+100

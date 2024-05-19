@@ -1,0 +1,6 @@
+3
+250.0
+Chicken
+Frozen
+Product_Images/prod3.png
+97

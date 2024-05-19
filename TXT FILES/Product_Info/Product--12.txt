@@ -1,0 +1,6 @@
+12
+70.0
+7-Up
+Drinks
+Product_Images/7-up.png
+100

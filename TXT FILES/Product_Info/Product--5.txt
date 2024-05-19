@@ -1,0 +1,6 @@
+5
+70.0
+Carrot
+Organic
+Product_Images/prod5.png
+99
