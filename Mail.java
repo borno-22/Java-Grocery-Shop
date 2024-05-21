@@ -25,8 +25,8 @@ public class Mail
 
 	public boolean sendEmail() throws MessagingException {
 		
-		String fromUser = "shopcoffee404@gmail.com";
-		String fromUserPassword = "juxypwzpwuqoezgo";
+		String fromUser = "";//enter your comany email address
+		String fromUserPassword = "";//enter password for this email
 		String emailHost = "smtp.gmail.com";
 		Transport transport = newSession.getTransport("smtp");
 		transport.connect(emailHost, fromUser, fromUserPassword);
