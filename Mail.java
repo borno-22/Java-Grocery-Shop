@@ -50,7 +50,7 @@ public class Mail
 		mimeMessage.setSubject(emailSubject);
 	   
 		
-	    
+	  
 	    // CREATE MIMEMESSAGE 
 	    // CREATE MESSAGE BODY PARTS 
 	    // CREATE MESSAGE MULTIPART 
